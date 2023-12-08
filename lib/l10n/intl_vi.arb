@@ -1,0 +1,24 @@
+{
+    "welcome": "Chào mừng đến Weather App",
+    "enter_city_or_zipcode": "Nhập tên thành phố hoặc ZipCode",
+    "loading": "Đang lấy dữ liệu...",
+    "city_or_zipcode_invalid": "Thành phố hoặc Zipcode không hợp lệ",
+    "feels_like": "Cảm giác như {temperature}°ᶜ",
+    "@feels_like": {
+        "placeholders": {
+            "temperature": {
+                "type": "String",
+                "example": "36"
+            }
+        }
+    },
+    "temperature": "{temperature}°ᶜ",
+    "@temperature": {
+        "placeholders": {
+            "temperature": {
+                "type": "String",
+                "example": "36"
+            }
+        }
+    }
+}

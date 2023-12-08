@@ -1,0 +1,24 @@
+{
+    "welcome": "Welcome to Weather App",
+    "enter_city_or_zipcode": "Enter City or ZipCode",
+    "loading": "Loading...",
+    "city_or_zipcode_invalid": "City or Zipcode invalid",
+    "feels_like": "Feels like {temperature}°ᶜ",
+    "@feels_like": {
+        "placeholders": {
+            "temperature": {
+                "type": "String",
+                "example": "36"
+            }
+        }
+    },
+    "temperature": "{temperature}°ᶜ",
+    "@temperature": {
+        "placeholders": {
+            "temperature": {
+                "type": "String",
+                "example": "36"
+            }
+        }
+    }
+}
