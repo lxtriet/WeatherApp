@@ -48,7 +48,7 @@ Clone and run this application, you'll need [Git](https://git-scm.com) installed
 $ git clone https://github.com/lxtriet/WeatherApp.git
 
 # Go into the repository
-$ cd weather_app
+$ cd WeatherApp
 ```
 
 Download Android Studio or Visual Studio with Flutter editor plugins. After that, open the project and install dependencies from pubspec.yaml by running the following command:
